@@ -1,4 +1,4 @@
-# (GitHub-Flavored) Markdown Editor
+# LESS tutorial - the first training
 
 Basic useful feature list:
 
@@ -11,7 +11,7 @@ I'm no good at writing sample / filler text, so go write something yourself.
 
 Look, a list!
 
- * foo
+ * use techcrunch to generate .less to .css
  * bar
  * baz
 
